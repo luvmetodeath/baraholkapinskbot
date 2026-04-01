@@ -5,11 +5,11 @@ import os
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # ID канала для публикации объявлений (например: @my_channel или -1001234567890)
-CHANNEL_ID = "@testbaraholkapinskbot"
+CHANNEL_ID = "@pinskvapekupi"
 
 # Список Telegram user_id администраторов
 ADMIN_IDS = [
-    1025207777,  # замените на реальные ID
+    1025207777, 8064096326  # замените на реальные ID
 ]
 
 # Ограничение: одна публикация раз в N минут

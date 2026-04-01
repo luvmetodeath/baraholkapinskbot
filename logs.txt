@@ -1,0 +1,1106 @@
+2026-03-31 13:24:18,186 [INFO] __main__: Запуск бота...
+2026-03-31 13:24:18,258 [INFO] database.db: Таблицы БД готовы
+2026-03-31 13:24:18,260 [INFO] __main__: База данных инициализирована
+2026-03-31 13:24:20,565 [INFO] __main__: Бот запущен и слушает обновления
+2026-03-31 13:24:20,567 [INFO] aiogram.dispatcher: Start polling
+2026-03-31 13:24:23,933 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Тест'
+2026-03-31 13:25:44,354 [INFO] database.users: Новый пользователь создан: 1025207777 (@luvmetodeath)
+2026-03-31 13:25:44,801 [INFO] aiogram.event: Update id=42699550 is handled. Duration 483 ms by bot id=8741526930
+2026-03-31 13:25:48,819 [INFO] aiogram.event: Update id=42699551 is handled. Duration 172 ms by bot id=8741526930
+2026-03-31 13:25:56,821 [INFO] aiogram.event: Update id=42699552 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:26:02,447 [INFO] aiogram.event: Update id=42699553 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:26:07,596 [INFO] aiogram.event: Update id=42699554 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:26:12,066 [INFO] aiogram.event: Update id=42699555 is handled. Duration 438 ms by bot id=8741526930
+2026-03-31 13:26:18,676 [INFO] aiogram.event: Update id=42699556 is handled. Duration 422 ms by bot id=8741526930
+2026-03-31 13:26:23,986 [INFO] aiogram.event: Update id=42699557 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:26:25,528 [INFO] aiogram.event: Update id=42699558 is handled. Duration 94 ms by bot id=8741526930
+2026-03-31 13:26:27,609 [INFO] aiogram.event: Update id=42699559 is handled. Duration 155 ms by bot id=8741526930
+2026-03-31 13:26:29,447 [INFO] database.posts: Пост создан в БД: id=1, user_id=1025207777
+2026-03-31 13:26:29,540 [ERROR] handlers.user_handlers: Ошибка публикации поста user_id=1025207777: Telegram server says - Bad Request: chat not found
+2026-03-31 13:26:29,782 [INFO] aiogram.event: Update id=42699560 is handled. Duration 515 ms by bot id=8741526930
+2026-03-31 13:28:21,386 [INFO] aiogram.event: Update id=42699561 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:28:23,616 [INFO] aiogram.event: Update id=42699562 is handled. Duration 202 ms by bot id=8741526930
+2026-03-31 13:28:24,782 [INFO] aiogram.event: Update id=42699563 is handled. Duration 157 ms by bot id=8741526930
+2026-03-31 13:28:26,438 [INFO] aiogram.event: Update id=42699564 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:28:28,123 [INFO] database.posts: Пост создан в БД: id=2, user_id=1025207777
+2026-03-31 13:28:28,207 [ERROR] handlers.user_handlers: Ошибка публикации поста user_id=1025207777: Telegram server says - Bad Request: chat not found
+2026-03-31 13:28:28,390 [INFO] aiogram.event: Update id=42699565 is handled. Duration 500 ms by bot id=8741526930
+2026-03-31 13:28:53,603 [INFO] aiogram.event: Update id=42699566 is handled. Duration 140 ms by bot id=8741526930
+2026-03-31 13:28:55,282 [INFO] aiogram.event: Update id=42699567 is handled. Duration 265 ms by bot id=8741526930
+2026-03-31 13:28:56,414 [INFO] aiogram.event: Update id=42699568 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:28:58,027 [INFO] aiogram.event: Update id=42699569 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:28:59,050 [INFO] database.posts: Пост создан в БД: id=3, user_id=1025207777
+2026-03-31 13:28:59,273 [INFO] services.post_service: Пост опубликован: post_id=3, user_id=1025207777, message_id=2
+2026-03-31 13:28:59,557 [INFO] aiogram.event: Update id=42699570 is handled. Duration 655 ms by bot id=8741526930
+2026-03-31 13:29:18,735 [INFO] aiogram.event: Update id=42699571 is handled. Duration 140 ms by bot id=8741526930
+2026-03-31 13:29:23,011 [INFO] database.posts: Пост удалён из БД: id=3
+2026-03-31 13:29:23,012 [INFO] handlers.admin_handlers: Админ 1025207777 удалил пост #ID3
+2026-03-31 13:29:23,262 [INFO] aiogram.event: Update id=42699572 is handled. Duration 625 ms by bot id=8741526930
+2026-03-31 13:29:58,987 [INFO] aiogram.event: Update id=42699573 is handled. Duration 187 ms by bot id=8741526930
+2026-03-31 13:30:00,636 [INFO] aiogram.event: Update id=42699574 is handled. Duration 170 ms by bot id=8741526930
+2026-03-31 13:30:02,251 [INFO] aiogram.event: Update id=42699575 is handled. Duration 170 ms by bot id=8741526930
+2026-03-31 13:30:03,421 [INFO] aiogram.event: Update id=42699576 is handled. Duration 233 ms by bot id=8741526930
+2026-03-31 13:30:17,464 [INFO] aiogram.event: Update id=42699577 is handled. Duration 344 ms by bot id=8741526930
+2026-03-31 13:36:43,105 [INFO] __main__: Запуск бота...
+2026-03-31 13:36:43,120 [INFO] database.db: Таблицы БД готовы
+2026-03-31 13:36:43,121 [INFO] __main__: База данных инициализирована
+2026-03-31 13:36:45,174 [INFO] __main__: Бот запущен и слушает обновления
+2026-03-31 13:36:45,177 [INFO] aiogram.dispatcher: Start polling
+2026-03-31 13:36:45,518 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Тест'
+2026-03-31 13:36:45,627 [INFO] aiogram.event: Update id=42699578 is not handled. Duration 15 ms by bot id=8741526930
+2026-03-31 13:36:46,179 [INFO] aiogram.event: Update id=42699579 is handled. Duration 562 ms by bot id=8741526930
+2026-03-31 13:36:56,020 [INFO] aiogram.event: Update id=42699580 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:37:01,443 [INFO] aiogram.event: Update id=42699581 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:37:06,217 [INFO] aiogram.event: Update id=42699582 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:37:48,504 [INFO] aiogram.event: Update id=42699583 is handled. Duration 342 ms by bot id=8741526930
+2026-03-31 13:37:55,068 [INFO] aiogram.event: Update id=42699584 is handled. Duration 578 ms by bot id=8741526930
+2026-03-31 13:38:28,575 [INFO] database.users: Новый пользователь создан: 8058721344 (@drugsendme)
+2026-03-31 13:38:28,697 [INFO] aiogram.event: Update id=42699585 is handled. Duration 156 ms by bot id=8741526930
+2026-03-31 13:38:33,795 [INFO] aiogram.event: Update id=42699586 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:38:38,083 [INFO] aiogram.event: Update id=42699587 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:38:45,404 [INFO] aiogram.event: Update id=42699588 is handled. Duration 219 ms by bot id=8741526930
+2026-03-31 13:38:47,862 [INFO] aiogram.event: Update id=42699589 is handled. Duration 140 ms by bot id=8741526930
+2026-03-31 13:39:01,940 [INFO] aiogram.event: Update id=42699590 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:39:04,739 [INFO] database.posts: Пост создан в БД: id=4, user_id=8058721344
+2026-03-31 13:39:06,038 [INFO] services.post_service: Пост опубликован: post_id=4, user_id=8058721344, message_id=3
+2026-03-31 13:39:06,366 [INFO] aiogram.event: Update id=42699591 is handled. Duration 2171 ms by bot id=8741526930
+2026-03-31 13:53:39,197 [INFO] __main__: Запуск бота...
+2026-03-31 13:53:39,241 [INFO] database.db: Таблицы БД готовы
+2026-03-31 13:53:39,243 [INFO] __main__: База данных инициализирована
+2026-03-31 13:53:41,726 [INFO] __main__: Бот запущен и слушает обновления
+2026-03-31 13:53:41,727 [INFO] aiogram.dispatcher: Start polling
+2026-03-31 13:53:41,728 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-03-31 13:53:41,746 [ERROR] services.reminder_service: Ошибка в планировщике напоминаний: no such column: status
+2026-03-31 13:53:42,334 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Тест'
+2026-03-31 13:54:16,780 [INFO] aiogram.event: Update id=42699592 is handled. Duration 297 ms by bot id=8741526930
+2026-03-31 13:54:18,768 [INFO] aiogram.event: Update id=42699593 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:54:20,766 [INFO] aiogram.event: Update id=42699594 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:54:22,719 [INFO] aiogram.event: Update id=42699595 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:54:36,732 [INFO] aiogram.event: Update id=42699596 is handled. Duration 187 ms by bot id=8741526930
+2026-03-31 13:54:40,562 [ERROR] handlers.user_handlers: Ошибка отправки на модерацию user_id=8058721344: type object 'PostService' has no attribute 'send_to_moderation'
+2026-03-31 13:54:40,845 [INFO] aiogram.event: Update id=42699597 is handled. Duration 859 ms by bot id=8741526930
+2026-03-31 13:55:06,376 [INFO] database.posts: Пост удалён из БД: id=4
+2026-03-31 13:55:06,377 [INFO] handlers.admin_handlers: Админ 1025207777 удалил пост #ID4
+2026-03-31 13:55:06,508 [INFO] aiogram.event: Update id=42699598 is handled. Duration 250 ms by bot id=8741526930
+2026-03-31 13:55:13,703 [INFO] aiogram.event: Update id=42699599 is handled. Duration 0 ms by bot id=8741526930
+2026-03-31 13:55:18,404 [INFO] aiogram.event: Update id=42699600 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:56:45,731 [INFO] aiogram.dispatcher: Polling stopped
+2026-03-31 13:56:45,735 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-31 13:56:45,737 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8741526930)
+2026-03-31 13:56:45,995 [INFO] aiogram.dispatcher: Polling stopped for bot @baraholkapinskbot id=8741526930 - 'Барахолка Тест'
+2026-03-31 13:59:05,215 [INFO] __main__: Запуск бота...
+2026-03-31 13:59:05,291 [INFO] database.db: Таблицы БД готовы
+2026-03-31 13:59:05,292 [INFO] __main__: База данных инициализирована
+2026-03-31 13:59:07,476 [INFO] __main__: Бот запущен и слушает обновления
+2026-03-31 13:59:07,478 [INFO] aiogram.dispatcher: Start polling
+2026-03-31 13:59:07,482 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-03-31 13:59:07,896 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Тест'
+2026-03-31 13:59:40,653 [INFO] database.users: Новый пользователь создан: 8058721344 (@drugsendme)
+2026-03-31 13:59:41,375 [INFO] aiogram.event: Update id=42699601 is handled. Duration 750 ms by bot id=8741526930
+2026-03-31 13:59:43,941 [INFO] aiogram.event: Update id=42699602 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 13:59:45,706 [INFO] aiogram.event: Update id=42699603 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 13:59:47,884 [INFO] aiogram.event: Update id=42699604 is handled. Duration 108 ms by bot id=8741526930
+2026-03-31 13:59:58,955 [INFO] aiogram.event: Update id=42699605 is handled. Duration 234 ms by bot id=8741526930
+2026-03-31 14:00:02,557 [ERROR] handlers.user_handlers: Ошибка отправки на модерацию user_id=8058721344: type object 'PostService' has no attribute 'send_to_moderation'
+2026-03-31 14:00:02,764 [INFO] aiogram.event: Update id=42699606 is handled. Duration 327 ms by bot id=8741526930
+2026-03-31 14:00:40,762 [INFO] aiogram.dispatcher: Polling stopped
+2026-03-31 14:00:40,770 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-31 14:00:40,770 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8741526930)
+2026-03-31 14:00:41,040 [INFO] aiogram.dispatcher: Polling stopped for bot @baraholkapinskbot id=8741526930 - 'Барахолка Тест'
+2026-03-31 14:03:46,477 [INFO] __main__: Запуск бота...
+2026-03-31 14:03:46,493 [INFO] database.db: Таблицы БД готовы
+2026-03-31 14:03:46,494 [INFO] __main__: База данных инициализирована
+2026-03-31 14:03:48,296 [INFO] __main__: Бот запущен и слушает обновления
+2026-03-31 14:03:48,297 [INFO] aiogram.dispatcher: Start polling
+2026-03-31 14:03:48,300 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-03-31 14:03:48,631 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Тест'
+2026-03-31 14:03:55,181 [INFO] aiogram.event: Update id=42699607 is handled. Duration 577 ms by bot id=8741526930
+2026-03-31 14:03:56,832 [INFO] aiogram.event: Update id=42699608 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 14:03:59,945 [INFO] aiogram.event: Update id=42699609 is handled. Duration 219 ms by bot id=8741526930
+2026-03-31 14:04:05,478 [INFO] aiogram.event: Update id=42699610 is handled. Duration 155 ms by bot id=8741526930
+2026-03-31 14:04:14,014 [INFO] aiogram.event: Update id=42699611 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 14:04:16,525 [INFO] database.posts: Черновик на модерацию: id=1, user_id=8058721344
+2026-03-31 14:04:16,691 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=1
+2026-03-31 14:04:17,167 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=1, user_id=8058721344
+2026-03-31 14:04:17,418 [INFO] aiogram.event: Update id=42699612 is handled. Duration 1343 ms by bot id=8741526930
+2026-03-31 14:04:25,298 [INFO] database.posts: Пост создан в БД: id=1, user_id=8058721344
+2026-03-31 14:04:25,549 [INFO] services.post_service: Пост опубликован: post_id=1, user_id=8058721344, message_id=4
+2026-03-31 14:04:26,196 [INFO] handlers.moderation_handlers: Админ 1025207777 одобрил pending_id=1 → post_id=1
+2026-03-31 14:04:26,332 [INFO] aiogram.event: Update id=42699613 is handled. Duration 1094 ms by bot id=8741526930
+2026-03-31 14:04:44,420 [INFO] aiogram.event: Update id=42699614 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 14:04:47,336 [INFO] aiogram.event: Update id=42699615 is handled. Duration 94 ms by bot id=8741526930
+2026-03-31 14:04:49,386 [INFO] aiogram.event: Update id=42699616 is handled. Duration 108 ms by bot id=8741526930
+2026-03-31 14:04:52,585 [INFO] aiogram.event: Update id=42699617 is handled. Duration 282 ms by bot id=8741526930
+2026-03-31 14:04:54,403 [INFO] aiogram.event: Update id=42699618 is handled. Duration 281 ms by bot id=8741526930
+2026-03-31 14:04:56,526 [INFO] database.posts: Черновик на модерацию: id=2, user_id=8058721344
+2026-03-31 14:04:56,690 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=2
+2026-03-31 14:04:56,825 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=2, user_id=8058721344
+2026-03-31 14:04:56,932 [INFO] aiogram.event: Update id=42699619 is handled. Duration 547 ms by bot id=8741526930
+2026-03-31 14:05:03,841 [INFO] handlers.moderation_handlers: Админ 1025207777 отклонил pending_id=2
+2026-03-31 14:05:04,033 [INFO] aiogram.event: Update id=42699620 is handled. Duration 812 ms by bot id=8741526930
+2026-03-31 14:05:20,058 [INFO] database.users: Пользователь забанен: 8058721344
+2026-03-31 14:05:20,059 [INFO] handlers.admin_handlers: Админ 1025207777 забанил пользователя 8058721344 (@@drugsendme)
+2026-03-31 14:05:20,208 [INFO] aiogram.event: Update id=42699621 is handled. Duration 204 ms by bot id=8741526930
+2026-03-31 14:05:24,238 [WARNING] handlers.user_handlers: Забаненный пользователь попытался создать пост: 8058721344
+2026-03-31 14:05:24,242 [INFO] aiogram.event: Update id=42699622 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 14:05:32,439 [INFO] database.users: Пользователь разбанен: 8058721344
+2026-03-31 14:05:32,441 [INFO] handlers.admin_handlers: Админ 1025207777 разбанил пользователя 8058721344 (@@drugsendme)
+2026-03-31 14:05:32,613 [INFO] aiogram.event: Update id=42699623 is handled. Duration 234 ms by bot id=8741526930
+2026-03-31 14:05:36,678 [INFO] aiogram.event: Update id=42699624 is handled. Duration 217 ms by bot id=8741526930
+2026-03-31 14:10:35,131 [INFO] aiogram.dispatcher: Polling stopped
+2026-03-31 14:10:35,136 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-31 14:10:35,136 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8741526930)
+2026-03-31 14:10:35,388 [INFO] aiogram.dispatcher: Polling stopped for bot @baraholkapinskbot id=8741526930 - 'Барахолка Тест'
+2026-03-31 18:29:37,015 [INFO] __main__: Запуск бота...
+2026-03-31 18:29:37,025 [INFO] database.db: Таблицы БД готовы
+2026-03-31 18:29:37,027 [INFO] __main__: База данных инициализирована
+2026-03-31 18:29:38,588 [INFO] __main__: Бот запущен и слушает обновления
+2026-03-31 18:29:38,590 [INFO] aiogram.dispatcher: Start polling
+2026-03-31 18:29:38,590 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-03-31 18:29:39,051 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Пинск Бот'
+2026-03-31 19:38:30,876 [INFO] aiogram.event: Update id=42699625 is not handled. Duration 15 ms by bot id=8741526930
+2026-03-31 21:50:10,208 [INFO] aiogram.event: Update id=42699626 is handled. Duration 500 ms by bot id=8741526930
+2026-03-31 21:50:13,585 [INFO] aiogram.event: Update id=42699627 is handled. Duration 94 ms by bot id=8741526930
+2026-03-31 21:50:19,623 [INFO] aiogram.event: Update id=42699628 is handled. Duration 140 ms by bot id=8741526930
+2026-03-31 21:50:22,924 [INFO] aiogram.event: Update id=42699629 is handled. Duration 155 ms by bot id=8741526930
+2026-03-31 21:50:25,187 [INFO] aiogram.event: Update id=42699630 is handled. Duration 156 ms by bot id=8741526930
+2026-03-31 21:50:26,994 [INFO] database.posts: Черновик на модерацию: id=3, user_id=8058721344
+2026-03-31 21:50:27,185 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=3
+2026-03-31 21:50:27,353 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=3, user_id=8058721344
+2026-03-31 21:50:27,452 [INFO] aiogram.event: Update id=42699631 is handled. Duration 782 ms by bot id=8741526930
+2026-03-31 21:50:45,697 [INFO] handlers.moderation_handlers: Админ 1025207777 отклонил pending_id=3
+2026-03-31 21:50:45,779 [INFO] aiogram.event: Update id=42699632 is handled. Duration 437 ms by bot id=8741526930
+2026-03-31 21:50:51,673 [INFO] aiogram.event: Update id=42699633 is handled. Duration 202 ms by bot id=8741526930
+2026-03-31 21:51:02,972 [INFO] aiogram.event: Update id=42699634 is handled. Duration 155 ms by bot id=8741526930
+2026-03-31 21:51:26,136 [INFO] aiogram.event: Update id=42699635 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 21:51:34,614 [INFO] aiogram.event: Update id=42699636 is handled. Duration 250 ms by bot id=8741526930
+2026-03-31 21:52:00,614 [INFO] aiogram.event: Update id=42699637 is handled. Duration 171 ms by bot id=8741526930
+2026-03-31 21:52:16,321 [INFO] database.posts: Черновик на модерацию: id=4, user_id=8058721344
+2026-03-31 21:52:16,559 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=4
+2026-03-31 21:52:16,702 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=4, user_id=8058721344
+2026-03-31 21:52:16,819 [INFO] aiogram.event: Update id=42699638 is handled. Duration 734 ms by bot id=8741526930
+2026-03-31 21:52:36,591 [INFO] database.posts: Пост создан в БД: id=2, user_id=8058721344
+2026-03-31 21:52:36,847 [INFO] services.post_service: Пост опубликован: post_id=2, user_id=8058721344, message_id=5
+2026-03-31 21:52:37,336 [INFO] handlers.moderation_handlers: Админ 1025207777 одобрил pending_id=4 → post_id=2
+2026-03-31 21:52:37,467 [INFO] aiogram.event: Update id=42699639 is handled. Duration 922 ms by bot id=8741526930
+2026-03-31 21:55:03,102 [INFO] database.users: Новый пользователь создан: 8064096326 (@None)
+2026-03-31 21:55:03,223 [INFO] aiogram.event: Update id=42699640 is handled. Duration 155 ms by bot id=8741526930
+2026-03-31 21:55:06,599 [INFO] aiogram.event: Update id=42699641 is handled. Duration 140 ms by bot id=8741526930
+2026-03-31 21:55:25,954 [INFO] aiogram.event: Update id=42699642 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 21:55:35,610 [INFO] aiogram.event: Update id=42699643 is handled. Duration 171 ms by bot id=8741526930
+2026-03-31 21:55:41,265 [INFO] aiogram.event: Update id=42699644 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 21:55:47,898 [INFO] aiogram.event: Update id=42699645 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 21:55:51,449 [INFO] aiogram.event: Update id=42699646 is handled. Duration 141 ms by bot id=8741526930
+2026-03-31 21:55:53,640 [INFO] database.posts: Черновик на модерацию: id=5, user_id=8064096326
+2026-03-31 21:55:53,830 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=5
+2026-03-31 21:55:53,971 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=5, user_id=8064096326
+2026-03-31 21:55:54,080 [INFO] aiogram.event: Update id=42699647 is handled. Duration 609 ms by bot id=8741526930
+2026-03-31 21:57:06,796 [INFO] database.posts: Пост создан в БД: id=3, user_id=8064096326
+2026-03-31 21:57:06,907 [ERROR] handlers.moderation_handlers: Ошибка публикации при одобрении pending_id=5: Telegram server says - Bad Request: BUTTON_USER_PRIVACY_RESTRICTED
+2026-03-31 21:57:07,106 [INFO] aiogram.event: Update id=42699648 is handled. Duration 344 ms by bot id=8741526930
+2026-03-31 21:57:10,524 [INFO] handlers.moderation_handlers: Админ 1025207777 отклонил pending_id=5
+2026-03-31 21:57:10,615 [INFO] aiogram.event: Update id=42699649 is handled. Duration 421 ms by bot id=8741526930
+2026-03-31 21:57:17,476 [INFO] database.users: Новый пользователь создан: 1025207777 (@luvmetodeath)
+2026-03-31 21:57:17,739 [INFO] aiogram.event: Update id=42699650 is handled. Duration 296 ms by bot id=8741526930
+2026-03-31 21:58:49,117 [INFO] aiogram.event: Update id=42699651 is handled. Duration 234 ms by bot id=8741526930
+2026-03-31 21:58:52,747 [INFO] aiogram.event: Update id=42699652 is handled. Duration 93 ms by bot id=8741526930
+2026-03-31 21:58:55,083 [INFO] aiogram.event: Update id=42699653 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 21:59:13,468 [INFO] aiogram.event: Update id=42699654 is handled. Duration 297 ms by bot id=8741526930
+2026-03-31 21:59:40,070 [INFO] database.posts: Черновик на модерацию: id=6, user_id=1025207777
+2026-03-31 21:59:40,228 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=6
+2026-03-31 21:59:40,355 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=6, user_id=1025207777
+2026-03-31 21:59:40,451 [INFO] aiogram.event: Update id=42699655 is handled. Duration 531 ms by bot id=8741526930
+2026-03-31 21:59:42,933 [INFO] database.posts: Пост создан в БД: id=4, user_id=1025207777
+2026-03-31 21:59:43,170 [INFO] services.post_service: Пост опубликован: post_id=4, user_id=1025207777, message_id=7
+2026-03-31 21:59:43,616 [INFO] handlers.moderation_handlers: Админ 1025207777 одобрил pending_id=6 → post_id=4
+2026-03-31 21:59:43,712 [INFO] aiogram.event: Update id=42699656 is handled. Duration 812 ms by bot id=8741526930
+2026-03-31 22:00:06,020 [INFO] aiogram.event: Update id=42699657 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 22:00:10,715 [INFO] aiogram.event: Update id=42699658 is handled. Duration 219 ms by bot id=8741526930
+2026-03-31 22:00:18,841 [INFO] aiogram.event: Update id=42699659 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 22:00:21,211 [INFO] aiogram.event: Update id=42699660 is handled. Duration 109 ms by bot id=8741526930
+2026-03-31 22:00:24,266 [INFO] aiogram.event: Update id=42699661 is handled. Duration 141 ms by bot id=8741526930
+2026-03-31 22:00:26,573 [INFO] database.posts: Черновик на модерацию: id=7, user_id=8064096326
+2026-03-31 22:00:26,756 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=7
+2026-03-31 22:00:26,893 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=7, user_id=8064096326
+2026-03-31 22:00:27,004 [INFO] aiogram.event: Update id=42699662 is handled. Duration 592 ms by bot id=8741526930
+2026-03-31 22:04:35,105 [INFO] database.posts: Пост создан в БД: id=5, user_id=8064096326
+2026-03-31 22:04:35,226 [ERROR] handlers.moderation_handlers: Ошибка публикации при одобрении pending_id=7: Telegram server says - Bad Request: BUTTON_USER_PRIVACY_RESTRICTED
+2026-03-31 22:04:35,430 [INFO] aiogram.event: Update id=42699663 is handled. Duration 358 ms by bot id=8741526930
+2026-03-31 22:10:00,595 [INFO] database.posts: Пост создан в БД: id=6, user_id=8064096326
+2026-03-31 22:10:00,901 [ERROR] handlers.moderation_handlers: Ошибка публикации при одобрении pending_id=7: Telegram server says - Bad Request: BUTTON_USER_PRIVACY_RESTRICTED
+2026-03-31 22:10:01,109 [INFO] aiogram.event: Update id=42699664 is handled. Duration 562 ms by bot id=8741526930
+2026-03-31 22:15:28,387 [INFO] aiogram.event: Update id=42699665 is not handled. Duration 0 ms by bot id=8741526930
+2026-03-31 22:15:38,826 [INFO] aiogram.event: Update id=42699666 is handled. Duration 125 ms by bot id=8741526930
+2026-03-31 22:15:51,866 [INFO] aiogram.event: Update id=42699667 is handled. Duration 171 ms by bot id=8741526930
+2026-03-31 22:15:55,636 [INFO] aiogram.event: Update id=42699668 is handled. Duration 108 ms by bot id=8741526930
+2026-03-31 22:16:05,888 [INFO] aiogram.event: Update id=42699669 is handled. Duration 155 ms by bot id=8741526930
+2026-03-31 23:39:05,625 [INFO] aiogram.dispatcher: Polling stopped
+2026-03-31 23:39:05,629 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-03-31 23:39:05,630 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8741526930)
+2026-03-31 23:39:05,882 [INFO] aiogram.dispatcher: Polling stopped for bot @baraholkapinskbot id=8741526930 - 'Барахолка Пинск Бот'
+2026-04-01 12:41:15,656 [INFO] __main__: Запуск бота...
+2026-04-01 12:41:15,732 [INFO] database.db: Таблицы БД готовы
+2026-04-01 12:41:15,734 [INFO] __main__: База данных инициализирована
+2026-04-01 12:49:30,923 [INFO] __main__: Запуск бота...
+2026-04-01 12:49:30,935 [INFO] database.db: Таблицы БД готовы
+2026-04-01 12:49:30,937 [INFO] __main__: База данных инициализирована
+2026-04-01 12:49:32,873 [INFO] __main__: Бот запущен и слушает обновления
+2026-04-01 12:49:32,874 [INFO] aiogram.dispatcher: Start polling
+2026-04-01 12:49:32,875 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-04-01 12:49:33,390 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Пинск Бот'
+2026-04-01 12:49:54,026 [INFO] aiogram.event: Update id=42699670 is handled. Duration 327 ms by bot id=8741526930
+2026-04-01 12:50:05,044 [INFO] aiogram.event: Update id=42699671 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 12:50:23,982 [INFO] database.users: Добавлен администратор: 8058721344 (@drugsendme), добавил: 1025207777
+2026-04-01 12:50:23,982 [INFO] handlers.admin_handlers: Суперадмин 1025207777 добавил админа 8058721344
+2026-04-01 12:50:24,250 [INFO] aiogram.event: Update id=42699672 is handled. Duration 311 ms by bot id=8741526930
+2026-04-01 12:50:29,187 [INFO] aiogram.event: Update id=42699673 is handled. Duration 219 ms by bot id=8741526930
+2026-04-01 12:52:12,825 [INFO] database.users: Удалён администратор: 8058721344
+2026-04-01 12:52:12,827 [INFO] handlers.admin_handlers: Суперадмин 1025207777 убрал админа 8058721344
+2026-04-01 12:52:13,044 [INFO] aiogram.event: Update id=42699674 is handled. Duration 265 ms by bot id=8741526930
+2026-04-01 12:52:26,692 [INFO] aiogram.event: Update id=42699675 is handled. Duration 469 ms by bot id=8741526930
+2026-04-01 12:52:39,659 [INFO] handlers.complaint_handlers: Жалоба от 1025207777 на 8058721344 (@drugsendme): даун
+2026-04-01 12:52:39,662 [INFO] aiogram.event: Update id=42699676 is handled. Duration 265 ms by bot id=8741526930
+2026-04-01 12:53:18,070 [INFO] aiogram.event: Update id=42699677 is not handled. Duration 31 ms by bot id=8741526930
+2026-04-01 12:53:18,071 [ERROR] aiogram.event: Cause exception while process update id=42699677 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\complaint_handlers.py", line 188, in cban_temp
+    ban_until = await user_repo.tempban_user(target_id, minutes=60 * 24)  # 24 часа
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 79, in tempban_user
+    await db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:53:21,981 [INFO] aiogram.event: Update id=42699678 is not handled. Duration 30 ms by bot id=8741526930
+2026-04-01 12:53:22,002 [ERROR] aiogram.event: Cause exception while process update id=42699678 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\complaint_handlers.py", line 160, in cban_permanent
+    await user_repo.ban_user(target_id)
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 67, in ban_user
+    await db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:54:07,688 [INFO] aiogram.event: Update id=42699679 is not handled. Duration 31 ms by bot id=8741526930
+2026-04-01 12:54:07,691 [ERROR] aiogram.event: Cause exception while process update id=42699679 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\complaint_handlers.py", line 188, in cban_temp
+    ban_until = await user_repo.tempban_user(target_id, minutes=60 * 24)  # 24 часа
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 79, in tempban_user
+    await db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:54:26,400 [INFO] aiogram.event: Update id=42699680 is not handled. Duration 16 ms by bot id=8741526930
+2026-04-01 12:54:26,401 [ERROR] aiogram.event: Cause exception while process update id=42699680 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\user_handlers.py", line 41, in cmd_new
+    if await user_repo.is_banned(user.id):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 34, in is_banned
+    async with db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:54:31,861 [INFO] aiogram.event: Update id=42699681 is not handled. Duration 30 ms by bot id=8741526930
+2026-04-01 12:54:31,862 [ERROR] aiogram.event: Cause exception while process update id=42699681 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\user_handlers.py", line 41, in cmd_new
+    if await user_repo.is_banned(user.id):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 34, in is_banned
+    async with db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:54:35,468 [INFO] aiogram.dispatcher: Polling stopped
+2026-04-01 12:54:35,490 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-01 12:54:35,495 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8741526930)
+2026-04-01 12:54:35,763 [INFO] aiogram.dispatcher: Polling stopped for bot @baraholkapinskbot id=8741526930 - 'Барахолка Пинск Бот'
+2026-04-01 12:54:57,788 [INFO] __main__: Запуск бота...
+2026-04-01 12:54:57,819 [INFO] database.db: Таблицы БД готовы
+2026-04-01 12:54:57,820 [INFO] __main__: База данных инициализирована
+2026-04-01 12:54:59,724 [INFO] __main__: Бот запущен и слушает обновления
+2026-04-01 12:54:59,725 [INFO] aiogram.dispatcher: Start polling
+2026-04-01 12:54:59,736 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-04-01 12:55:00,059 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Пинск Бот'
+2026-04-01 12:55:04,727 [INFO] aiogram.event: Update id=42699682 is not handled. Duration 15 ms by bot id=8741526930
+2026-04-01 12:55:04,727 [ERROR] aiogram.event: Cause exception while process update id=42699682 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\user_handlers.py", line 41, in cmd_new
+    if await user_repo.is_banned(user.id):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 34, in is_banned
+    async with db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:55:12,375 [INFO] aiogram.event: Update id=42699683 is not handled. Duration 30 ms by bot id=8741526930
+2026-04-01 12:55:12,375 [ERROR] aiogram.event: Cause exception while process update id=42699683 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\user_handlers.py", line 41, in cmd_new
+    if await user_repo.is_banned(user.id):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 34, in is_banned
+    async with db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:55:17,988 [INFO] handlers.complaint_handlers: Админ 1025207777 отклонил жалобу на 8058721344
+2026-04-01 12:55:18,088 [INFO] aiogram.event: Update id=42699684 is handled. Duration 579 ms by bot id=8741526930
+2026-04-01 12:55:22,346 [INFO] aiogram.event: Update id=42699685 is not handled. Duration 15 ms by bot id=8741526930
+2026-04-01 12:55:22,349 [ERROR] aiogram.event: Cause exception while process update id=42699685 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\user_handlers.py", line 41, in cmd_new
+    if await user_repo.is_banned(user.id):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 34, in is_banned
+    async with db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:55:32,382 [INFO] aiogram.event: Update id=42699686 is handled. Duration 140 ms by bot id=8741526930
+2026-04-01 12:55:34,707 [INFO] aiogram.event: Update id=42699687 is not handled. Duration 32 ms by bot id=8741526930
+2026-04-01 12:55:34,711 [ERROR] aiogram.event: Cause exception while process update id=42699687 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\user_handlers.py", line 41, in cmd_new
+    if await user_repo.is_banned(user.id):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 34, in is_banned
+    async with db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:55:36,485 [INFO] aiogram.event: Update id=42699688 is handled. Duration 327 ms by bot id=8741526930
+2026-04-01 12:56:18,533 [INFO] database.posts: Пост удалён из БД: id=4
+2026-04-01 12:56:18,651 [INFO] handlers.my_posts_handlers: Пользователь 1025207777 удалил свой пост #4
+2026-04-01 12:56:18,757 [INFO] aiogram.event: Update id=42699689 is handled. Duration 436 ms by bot id=8741526930
+2026-04-01 12:56:35,281 [INFO] aiogram.event: Update id=42699690 is handled. Duration 375 ms by bot id=8741526930
+2026-04-01 12:56:40,625 [INFO] database.posts: Пост удалён из БД: id=1
+2026-04-01 12:56:40,761 [INFO] handlers.my_posts_handlers: Пользователь 8058721344 удалил свой пост #1
+2026-04-01 12:56:40,848 [INFO] aiogram.event: Update id=42699691 is handled. Duration 422 ms by bot id=8741526930
+2026-04-01 12:56:42,183 [INFO] database.posts: Пост удалён из БД: id=2
+2026-04-01 12:56:42,281 [INFO] handlers.my_posts_handlers: Пользователь 8058721344 удалил свой пост #2
+2026-04-01 12:56:42,369 [INFO] aiogram.event: Update id=42699692 is handled. Duration 375 ms by bot id=8741526930
+2026-04-01 12:57:17,387 [INFO] aiogram.event: Update id=42699693 is not handled. Duration 0 ms by bot id=8741526930
+2026-04-01 12:57:17,388 [ERROR] aiogram.event: Cause exception while process update id=42699693 by bot id=8741526930
+OperationalError: no such column: ban_until
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 189, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 161, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 153, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\router.py", line 181, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\handlers\user_handlers.py", line 41, in cmd_new
+    if await user_repo.is_banned(user.id):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\flea_market_bot\database\users.py", line 34, in is_banned
+    async with db.execute(
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\context.py", line 41, in __aenter__
+    self._obj = await self._coro
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 223, in execute
+    cursor = await self._execute(self._conn.execute, sql, parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 160, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python311\Lib\site-packages\aiosqlite\core.py", line 63, in _connection_worker_thread
+    result = function()
+             ^^^^^^^^^^
+sqlite3.OperationalError: no such column: ban_until
+2026-04-01 12:58:25,627 [INFO] aiogram.dispatcher: Polling stopped
+2026-04-01 12:58:25,633 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-01 12:58:25,641 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8741526930)
+2026-04-01 12:58:25,900 [INFO] aiogram.dispatcher: Polling stopped for bot @baraholkapinskbot id=8741526930 - 'Барахолка Пинск Бот'
+2026-04-01 12:58:54,626 [INFO] __main__: Запуск бота...
+2026-04-01 12:58:54,757 [INFO] database.db: Таблицы БД готовы
+2026-04-01 12:58:54,758 [INFO] __main__: База данных инициализирована
+2026-04-01 12:58:56,883 [INFO] __main__: Бот запущен и слушает обновления
+2026-04-01 12:58:56,886 [INFO] aiogram.dispatcher: Start polling
+2026-04-01 12:58:56,889 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-04-01 12:58:57,378 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Пинск Бот'
+2026-04-01 12:59:11,920 [INFO] database.users: Новый пользователь создан: 8058721344 (@drugsendme)
+2026-04-01 12:59:12,329 [INFO] aiogram.event: Update id=42699694 is handled. Duration 454 ms by bot id=8741526930
+2026-04-01 12:59:18,027 [INFO] aiogram.event: Update id=42699695 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 12:59:21,382 [INFO] aiogram.event: Update id=42699696 is handled. Duration 186 ms by bot id=8741526930
+2026-04-01 12:59:27,346 [INFO] aiogram.event: Update id=42699697 is handled. Duration 140 ms by bot id=8741526930
+2026-04-01 12:59:28,989 [INFO] aiogram.event: Update id=42699698 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 12:59:30,796 [INFO] database.posts: Черновик на модерацию: id=1, user_id=8058721344
+2026-04-01 12:59:31,266 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=1
+2026-04-01 12:59:31,409 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=1, user_id=8058721344
+2026-04-01 12:59:31,522 [INFO] aiogram.event: Update id=42699699 is handled. Duration 891 ms by bot id=8741526930
+2026-04-01 12:59:37,098 [INFO] database.posts: Пост создан в БД: id=1, user_id=8058721344
+2026-04-01 12:59:37,400 [INFO] services.post_service: Пост опубликован: post_id=1, user_id=8058721344, message_id=9
+2026-04-01 12:59:38,121 [INFO] handlers.moderation_handlers: Админ 1025207777 одобрил pending_id=1 → post_id=1
+2026-04-01 12:59:38,344 [INFO] aiogram.event: Update id=42699700 is handled. Duration 1297 ms by bot id=8741526930
+2026-04-01 12:59:44,120 [INFO] aiogram.event: Update id=42699701 is not handled. Duration 46 ms by bot id=8741526930
+2026-04-01 13:01:32,436 [INFO] database.users: Новый пользователь создан: 1025207777 (@luvmetodeath)
+2026-04-01 13:01:32,767 [INFO] handlers.complaint_handlers: Жалоба от 1025207777 на 8058721344 (@drugsendme): додик
+2026-04-01 13:01:32,778 [INFO] aiogram.event: Update id=42699702 is handled. Duration 406 ms by bot id=8741526930
+2026-04-01 13:01:35,384 [INFO] database.users: Пользователь забанен на 1440 мин: 8058721344
+2026-04-01 13:01:35,790 [INFO] handlers.complaint_handlers: Админ 1025207777 временно забанил 8058721344 на 24ч по жалобе
+2026-04-01 13:01:35,884 [INFO] aiogram.event: Update id=42699703 is handled. Duration 1500 ms by bot id=8741526930
+2026-04-01 13:01:52,333 [INFO] database.users: Пользователь разбанен: 8058721344
+2026-04-01 13:01:52,345 [INFO] handlers.admin_handlers: Админ 1025207777 разбанил 8058721344
+2026-04-01 13:01:52,592 [INFO] aiogram.event: Update id=42699704 is handled. Duration 297 ms by bot id=8741526930
+2026-04-01 13:03:59,833 [INFO] aiogram.dispatcher: Polling stopped
+2026-04-01 13:03:59,844 [ERROR] aiogram.dispatcher: Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-04-01 13:03:59,858 [WARNING] aiogram.dispatcher: Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8741526930)
+2026-04-01 13:04:00,122 [INFO] aiogram.dispatcher: Polling stopped for bot @baraholkapinskbot id=8741526930 - 'Барахолка Пинск Бот'
+2026-04-01 13:29:45,974 [INFO] __main__: Запуск бота...
+2026-04-01 13:29:46,129 [INFO] database.db: Таблицы БД готовы
+2026-04-01 13:29:46,129 [INFO] __main__: База данных инициализирована
+2026-04-01 13:29:48,025 [INFO] __main__: Бот запущен и слушает обновления
+2026-04-01 13:29:48,027 [INFO] aiogram.dispatcher: Start polling
+2026-04-01 13:29:48,029 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-04-01 13:29:49,948 [INFO] aiogram.dispatcher: Polling stopped
+2026-04-01 13:32:35,793 [INFO] __main__: Запуск бота...
+2026-04-01 13:32:35,809 [INFO] database.db: Таблицы БД готовы
+2026-04-01 13:32:35,811 [INFO] __main__: База данных инициализирована
+2026-04-01 13:32:37,465 [INFO] __main__: Бот запущен и слушает обновления
+2026-04-01 13:32:37,465 [INFO] aiogram.dispatcher: Start polling
+2026-04-01 13:32:37,469 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-04-01 13:32:37,835 [INFO] aiogram.dispatcher: Polling stopped
+2026-04-01 13:33:50,673 [INFO] __main__: Запуск бота...
+2026-04-01 13:33:50,684 [INFO] database.db: Таблицы БД готовы
+2026-04-01 13:33:50,686 [INFO] __main__: База данных инициализирована
+2026-04-01 13:33:52,275 [INFO] __main__: Бот запущен и слушает обновления
+2026-04-01 13:33:52,277 [INFO] aiogram.dispatcher: Start polling
+2026-04-01 13:33:52,279 [INFO] services.reminder_service: Планировщик напоминаний запущен
+2026-04-01 13:33:52,680 [INFO] aiogram.dispatcher: Run polling for bot @baraholkapinskbot id=8741526930 - 'Барахолка Пинск Бот'
+2026-04-01 13:34:06,917 [INFO] database.users: Новый пользователь создан: 1025207777 (@luvmetodeath)
+2026-04-01 13:34:07,255 [INFO] aiogram.event: Update id=42699705 is handled. Duration 375 ms by bot id=8741526930
+2026-04-01 13:34:10,575 [INFO] aiogram.event: Update id=42699706 is handled. Duration 109 ms by bot id=8741526930
+2026-04-01 13:34:13,914 [INFO] aiogram.event: Update id=42699707 is handled. Duration 157 ms by bot id=8741526930
+2026-04-01 13:34:14,964 [INFO] aiogram.event: Update id=42699708 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 13:34:17,244 [INFO] aiogram.event: Update id=42699709 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 13:34:19,505 [INFO] aiogram.event: Update id=42699710 is handled. Duration 155 ms by bot id=8741526930
+2026-04-01 13:34:21,123 [INFO] handlers.user_handlers: Пользователь 1025207777 отменил создание поста
+2026-04-01 13:34:21,281 [INFO] aiogram.event: Update id=42699711 is handled. Duration 484 ms by bot id=8741526930
+2026-04-01 13:34:33,084 [INFO] aiogram.event: Update id=42699712 is handled. Duration 172 ms by bot id=8741526930
+2026-04-01 13:34:46,126 [INFO] aiogram.event: Update id=42699713 is handled. Duration 186 ms by bot id=8741526930
+2026-04-01 13:34:50,108 [INFO] aiogram.event: Update id=42699714 is handled. Duration 187 ms by bot id=8741526930
+2026-04-01 13:34:53,034 [INFO] aiogram.event: Update id=42699715 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 13:34:56,680 [INFO] aiogram.event: Update id=42699716 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 13:35:00,169 [INFO] aiogram.event: Update id=42699717 is handled. Duration 157 ms by bot id=8741526930
+2026-04-01 13:35:03,271 [INFO] aiogram.event: Update id=42699718 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 13:35:21,584 [INFO] database.posts: Черновик на модерацию: id=1, user_id=1025207777
+2026-04-01 13:35:21,745 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=1
+2026-04-01 13:35:21,912 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=1, user_id=1025207777
+2026-04-01 13:35:22,033 [INFO] aiogram.event: Update id=42699719 is handled. Duration 625 ms by bot id=8741526930
+2026-04-01 13:35:22,872 [INFO] database.posts: Пост создан в БД: id=1, user_id=1025207777
+2026-04-01 13:35:23,399 [INFO] services.post_service: Пост опубликован: post_id=1, user_id=1025207777, message_id=10
+2026-04-01 13:35:23,881 [INFO] handlers.moderation_handlers: Админ 1025207777 одобрил pending_id=1 → post_id=1
+2026-04-01 13:35:23,976 [INFO] aiogram.event: Update id=42699720 is handled. Duration 1250 ms by bot id=8741526930
+2026-04-01 13:35:26,412 [INFO] aiogram.event: Update id=42699721 is handled. Duration 282 ms by bot id=8741526930
+2026-04-01 13:35:28,196 [INFO] aiogram.event: Update id=42699722 is handled. Duration 219 ms by bot id=8741526930
+2026-04-01 13:35:34,305 [INFO] database.posts: Цена поста #1 обновлена: 17
+2026-04-01 13:35:34,545 [INFO] handlers.my_posts_handlers: Пользователь 1025207777 изменил цену поста #1: 13 руб → 17
+2026-04-01 13:35:34,546 [INFO] aiogram.event: Update id=42699723 is handled. Duration 280 ms by bot id=8741526930
+2026-04-01 13:35:44,727 [INFO] database.posts: Пост удалён из БД: id=1
+2026-04-01 13:35:44,950 [INFO] handlers.my_posts_handlers: Пользователь 1025207777 удалил свой пост #1
+2026-04-01 13:35:45,073 [INFO] aiogram.event: Update id=42699724 is handled. Duration 500 ms by bot id=8741526930
+2026-04-01 13:35:53,004 [INFO] aiogram.event: Update id=42699725 is not handled. Duration 15 ms by bot id=8741526930
+2026-04-01 13:36:05,433 [INFO] aiogram.event: Update id=42699726 is not handled. Duration 0 ms by bot id=8741526930
+2026-04-01 13:36:10,110 [INFO] aiogram.event: Update id=42699727 is handled. Duration 187 ms by bot id=8741526930
+2026-04-01 13:36:21,634 [INFO] aiogram.event: Update id=42699728 is handled. Duration 140 ms by bot id=8741526930
+2026-04-01 13:36:34,665 [INFO] aiogram.event: Update id=42699729 is not handled. Duration 15 ms by bot id=8741526930
+2026-04-01 13:36:39,767 [INFO] database.users: Новый пользователь создан: 8058721344 (@drugsendme)
+2026-04-01 13:36:39,886 [INFO] aiogram.event: Update id=42699730 is handled. Duration 155 ms by bot id=8741526930
+2026-04-01 13:36:46,008 [INFO] database.users: Добавлен модератор: 8058721344 (@drugsendme), добавил: 1025207777
+2026-04-01 13:36:46,009 [INFO] handlers.admin_handlers: Суперадмин 1025207777 назначил модератора 8058721344
+2026-04-01 13:36:46,285 [INFO] aiogram.event: Update id=42699731 is handled. Duration 312 ms by bot id=8741526930
+2026-04-01 13:36:53,411 [INFO] aiogram.event: Update id=42699732 is handled. Duration 187 ms by bot id=8741526930
+2026-04-01 13:36:55,184 [INFO] aiogram.event: Update id=42699733 is handled. Duration 140 ms by bot id=8741526930
+2026-04-01 13:36:56,918 [INFO] aiogram.event: Update id=42699734 is handled. Duration 109 ms by bot id=8741526930
+2026-04-01 13:36:58,663 [INFO] aiogram.event: Update id=42699735 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 13:37:01,087 [INFO] aiogram.event: Update id=42699736 is handled. Duration 172 ms by bot id=8741526930
+2026-04-01 13:37:03,523 [INFO] aiogram.event: Update id=42699737 is handled. Duration 672 ms by bot id=8741526930
+2026-04-01 13:48:10,018 [INFO] aiogram.event: Update id=42699738 is handled. Duration 141 ms by bot id=8741526930
+2026-04-01 13:48:11,782 [INFO] aiogram.event: Update id=42699739 is handled. Duration 125 ms by bot id=8741526930
+2026-04-01 13:48:12,824 [INFO] aiogram.event: Update id=42699740 is handled. Duration 109 ms by bot id=8741526930
+2026-04-01 13:48:14,356 [INFO] aiogram.event: Update id=42699741 is handled. Duration 109 ms by bot id=8741526930
+2026-04-01 13:48:16,549 [INFO] aiogram.event: Update id=42699742 is handled. Duration 140 ms by bot id=8741526930
+2026-04-01 13:48:18,119 [INFO] database.posts: Черновик на модерацию: id=2, user_id=1025207777
+2026-04-01 13:48:18,269 [INFO] services.post_service: Объявление отправлено на модерацию: pending_id=2
+2026-04-01 13:48:18,412 [INFO] handlers.user_handlers: Пост отправлен на модерацию: pending_id=2, user_id=1025207777
+2026-04-01 13:48:18,509 [INFO] aiogram.event: Update id=42699743 is handled. Duration 577 ms by bot id=8741526930
+2026-04-01 13:48:24,552 [INFO] database.posts: Пост создан в БД: id=2, user_id=1025207777
+2026-04-01 13:48:24,752 [INFO] services.post_service: Пост опубликован: post_id=2, user_id=1025207777, message_id=11
+2026-04-01 13:48:25,098 [INFO] handlers.moderation_handlers: Админ 8058721344 одобрил pending_id=2 → post_id=2
+2026-04-01 13:48:25,193 [INFO] aiogram.event: Update id=42699744 is handled. Duration 688 ms by bot id=8741526930
+2026-04-01 13:48:30,005 [INFO] aiogram.event: Update id=42699745 is handled. Duration 250 ms by bot id=8741526930
+2026-04-01 13:48:31,671 [INFO] aiogram.event: Update id=42699746 is handled. Duration 233 ms by bot id=8741526930
+2026-04-01 13:48:33,713 [INFO] database.posts: Цена поста #2 обновлена: 113
+2026-04-01 13:48:33,998 [INFO] handlers.my_posts_handlers: Пользователь 1025207777 изменил цену поста #2: 131 → 113
+2026-04-01 13:48:33,999 [INFO] aiogram.event: Update id=42699747 is handled. Duration 327 ms by bot id=8741526930
+2026-04-01 13:48:37,512 [INFO] database.posts: Пост удалён из БД: id=2
+2026-04-01 13:48:37,714 [INFO] handlers.my_posts_handlers: Пользователь 1025207777 удалил свой пост #2
+2026-04-01 13:48:37,810 [INFO] aiogram.event: Update id=42699748 is handled. Duration 437 ms by bot id=8741526930

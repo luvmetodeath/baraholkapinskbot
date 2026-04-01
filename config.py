@@ -1,7 +1,8 @@
 # настройки бота
 
 # Токен бота (получить у @BotFather)
-BOT_TOKEN = os.getenv"8741526930:AAGFfZj152slRGbF87steBfOpbWTjkOZjso"
+BOT_TOKEN = os.getenv("8741526930:AAGFfZj152slRGbF87steBfOpbWTjkOZjso")
+BOT_TOKEN = "8741526930:AAGFfZj152slRGbF87steBfOpbWTjkOZjso"
 
 # ID канала для публикации объявлений (например: @my_channel или -1001234567890)
 CHANNEL_ID = "@testbaraholkapinskbot"

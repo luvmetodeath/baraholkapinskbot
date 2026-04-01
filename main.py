@@ -2,6 +2,8 @@ import asyncio
 import logging
 import os
 
+from config import BOT_TOKEN
+print(BOT_TOKEN)
 from aiogram import Bot, Dispatcher
 from aiogram.fsm.storage.memory import MemoryStorage
 

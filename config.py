@@ -1,6 +1,7 @@
 # настройки бота
 
 # Токен бота (получить у @BotFather)
+import os
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 # ID канала для публикации объявлений (например: @my_channel или -1001234567890)
